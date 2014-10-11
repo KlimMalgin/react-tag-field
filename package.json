@@ -1,0 +1,26 @@
+{
+  "name": "react-tag-field",
+  "version": "0.0.1",
+  "description": "React component for create tags in input fields",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KlimMalgin/react-tag-field.git"
+  },
+  "keywords": [
+    "react",
+    "tag",
+    "tags",
+    "input",
+    "field",
+    "multi-select"
+  ],
+  "author": "KlimMalgin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KlimMalgin/react-tag-field/issues"
+  },
+  "peerDependencies": {
+    "react": "~0.11.2"
+  }
+}
