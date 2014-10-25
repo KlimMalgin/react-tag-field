@@ -1,7 +1,7 @@
 {
   "name": "react-tag-field",
   "version": "0.0.1",
-  "description": "React component for create tags in input fields",
+  "description": "React component for create input fields with tags",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -21,6 +21,8 @@
     "url": "https://github.com/KlimMalgin/react-tag-field/issues"
   },
   "peerDependencies": {
-    "react": "~0.11.2"
-  }
+    "react": "~0.11.2",
+    "react-font-awesome": "~1.0.3"
+  },
+  "homepage": "https://github.com/KlimMalgin/react-tag-field"
 }
